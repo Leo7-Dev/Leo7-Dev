@@ -1,5 +1,5 @@
 - My Name's Leonardo
-- 👀 Estou interessado em consseguir um serviço como Dev
+- 👀 Busco consseguir um serviço como Dev
 - Atualmente estou aprendendo Inglês e .Lua
 - Tenho 15 anos | 22/11/2008
 - BR | RS | Alvorada 
